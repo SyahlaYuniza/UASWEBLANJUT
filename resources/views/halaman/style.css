@@ -1,0 +1,59 @@
+/* styles.css */
+
+/* Gaya Navbar */
+.navbar {
+    background-color: #28a745; /* Warna hijau tua, bisa disesuaikan */
+}
+
+/* Gaya Header */
+header {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.bg-dark.py-5 {
+    background-image: url("/pict/honkaibg.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(250, 250, 250);
+    /* Warna teks untuk kontras dengan background */
+}
+
+/* Gaya Footer */
+footer {
+    text-align: center;
+    background-color: #212529; /* Warna abu-abu tua, bisa disesuaikan */
+    color: white;
+    padding: 3rem 1.5rem;
+}
+
+/* Gaya Card */
+.card {
+    margin-bottom: 20px;
+}
+
+/* Gaya Tombol Login */
+.nav-link {
+    background-color: #17a2b8; /* Warna biru muda, bisa disesuaikan */
+}
+
+/* Gaya Judul */
+h1 {
+    color: #fff; /* Warna putih, bisa disesuaikan */
+}
+
+/* Gaya Paragraf */
+p {
+    color: #ccc; /* Warna abu-abu muda, bisa disesuaikan */
+}
+
+/* Gaya Link Sosial Media */
+.text-reset {
+    color: #fff; /* Warna putih, bisa disesuaikan */
+}
+
+.text-reset:hover {
+    text-decoration: underline;
+}
